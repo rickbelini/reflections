@@ -1,0 +1,49 @@
+Fazendo anotações do curso de Git/GitHub.
+
+1)
+Até este momento, aprendi que nos Sistema Operacionais existem recursos internos que facilitam a comparação entre arquivos.
+O recurso que aprendi a utilizar foi no prompt de comando do SO Windows.
+Aprendi a utilizar o comando CD para informar o local no qual estão os arquivos:
+Ex.: CD Dowloads ou CD Documents/ESTUDOS/git_github
+
+Após informar o local que estão os arquivos, utilizei o comando FC.
+FC é o comando para comparar os arquivos, FC é do inglês "File Compare":
+Ex.: FC game_new.js game_old.js 
+
+2)
+Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
+
+As alterações são destacadas com a indicação de qual arquivo ela pertence.
+
+3)
+Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+
+O fácil acesso é importante para reduzir o tempo de busca de determinado código ou na procur por um erro.
+
+4)
+Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento automático de versões, como no Google Docs?
+
+Um pró de usar o Git é a facilidade em encontrar as alterações, pois há uma lógica no "pacote" de alterações.
+Um pró de se usar o Google Docs é que não se perde nenhuma alteração, independente de se esquecer de salvar o projeto.
+
+5)
+Por que você acha que alguns sistemas de controle de versão, como Git,permitem salvar vários arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
+
+Acredito que seja para ajudar na lógica de salvamento por "pacotes" de informação, já que em desenvolvimento se usa vários documentos para a realização de um projeto.
+
+6)
+Como usar os comandos git log e git diff pata visualizar o histórico dos arquivos?
+
+Utilizando o comando git log é possível ter um panorama de todas as modificações realizados no documento.
+Através das Ids de cada alteração, conseguimos ter informações precisas em realação a cada alteração.
+Inclusive, é possível comparar as alterações entre cada versão, como por exemplo, o número de linhas afetadas.
+
+7)
+De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
+
+Dando a possibilidade de voltar a um estado anterior ao erro cometido.
+
+8)
+Agora que você já configurou sua área de travalho, você quer usar o Git para quê?
+
+Quero usar para para melhorar minha performance no desenvolvimento de sites e programação.
