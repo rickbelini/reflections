@@ -1,0 +1,4 @@
+8)
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+
+você prepara o diretório para que ele reconheça os arquivos e possa trabalhar com o git.
