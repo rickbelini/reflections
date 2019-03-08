@@ -8,3 +8,8 @@ Em que se difere a área de preparação do diretório de trabalho e do reposit�
 
 A área de preparação é um estado transitório em que se prepara um ou mais arquivos a serem confirmados.
 Já o diretório é continuo e abriga todos os arquivos.
+
+10)
+Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+
+Na criação de versões alternativas ou de testes. Os branches ajudariam na compartimentalização de projetos diferentes porém com mesma estrutura inicial.
