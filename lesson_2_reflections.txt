@@ -13,3 +13,7 @@ Já o diretório é continuo e abriga todos os arquivos.
 Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
 
 Na criação de versões alternativas ou de testes. Os branches ajudariam na compartimentalização de projetos diferentes porém com mesma estrutura inicial.
+
+11)
+Como os diagramas ajudam a visualizar a estrutura de branches?
+Fornecendo informação visual de acessibilidade e posicionamento entre os branches.
