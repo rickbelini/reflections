@@ -16,4 +16,10 @@ Na criação de versões alternativas ou de testes. Os branches ajudariam na com
 
 11)
 Como os diagramas ajudam a visualizar a estrutura de branches?
+
 Fornecendo informação visual de acessibilidade e posicionamento entre os branches.
+
+12)
+Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+
+Um novo master. Pois ele é o encontro entre dois branches.
