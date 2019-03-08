@@ -23,3 +23,8 @@ Fornecendo informação visual de acessibilidade e posicionamento entre os branc
 Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
 
 Um novo master. Pois ele é o encontro entre dois branches.
+
+13)
+Quais são os prós e contras de mesclagem automática do Git v. sempre fazer mesclagens manualmente?
+
+Não sei a resposta.
