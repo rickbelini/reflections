@@ -2,3 +2,9 @@
 O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
 
 você prepara o diretório para que ele reconheça os arquivos e possa trabalhar com o git.
+
+9)
+Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+
+A área de preparação é um estado transitório em que se prepara um ou mais arquivos a serem confirmados.
+Já o diretório é continuo e abriga todos os arquivos.
