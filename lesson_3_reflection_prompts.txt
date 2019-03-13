@@ -1,0 +1,4 @@
+14)
+Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
+
+Quando for trabalhar em grupo e para ter um backup de emergência.
