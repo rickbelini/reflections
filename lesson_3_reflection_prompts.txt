@@ -2,3 +2,9 @@
 Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
 
 Quando for trabalhar em grupo e para ter um backup de emergência.
+
+15)
+Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
+
+Assim como o commit eu prefiro enviar ou receber as atualizações quando eu julgar necessário.
+Dessa forma evito alterações indesejadas ou erradas.
